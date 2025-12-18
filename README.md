@@ -7,15 +7,12 @@ The original pcb states that the design is public domain. Their website says CC-
 This projects goal is to remake the 'Even VCO' in a 8hp format, to be ordered on a PCBA service like JLCPCB.
 Files are (for now) easyeda pro.
 
+- There is an alternative 10-pole octave switch IO in the project file
+(The pots are flipped and it might need some rework)
+
 TODO:
 - Check thermistor type
-- Update jack footprint to be able to make front panel holes accurately.
 - Verify parts for PCBA
-- Add front panel (hole pattern, design etc.)
-
-Done
-- Find a 10pole switch and verify footprint (unfinished version in project file).
--   Added version with potmeter and added FM adj as there is more space
 
 <img width="672" height="1524" alt="image" src="https://github.com/user-attachments/assets/7f437181-fb16-49f5-ae22-f0f992e41cd0" />
 
