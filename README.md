@@ -16,7 +16,9 @@ TODO:
 Done
 - Find a 10pole switch and verify footprint (unfinished version in project file).
 -   Added version with potmeter and added FM adj as there is more space
-  
+
+<img width="672" height="1524" alt="image" src="https://github.com/user-attachments/assets/7f437181-fb16-49f5-ae22-f0f992e41cd0" />
+
 <img width="1090" height="1656" alt="image" src="https://github.com/user-attachments/assets/9ed192cb-382a-45ee-8cc3-640e5f738440" />
 
 <img width="1476" height="1812" alt="image" src="https://github.com/user-attachments/assets/75c244f5-a3c0-4f28-ba45-c99b2fe60867" />
