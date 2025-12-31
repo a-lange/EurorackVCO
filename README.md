@@ -7,14 +7,10 @@ The original pcb states that the design is public domain. Their website says CC-
 This projects goal is to remake the 'Even VCO' in a 8hp format, to be ordered on a PCBA service like JLCPCB.
 Files are (for now) easyeda pro.
 
-- There is an alternative 10-pole octave switch IO in the project file
-(The pots are flipped and it might need some rework)
+First prototypes has been ordered
 
-TODO:
-- Check thermistor type
-- Verify parts for PCBA
-
-<img width="672" height="1524" alt="image" src="https://github.com/user-attachments/assets/7f437181-fb16-49f5-ae22-f0f992e41cd0" />
+Sorry about the ugly pictures:
+<img width="672" height="1524" alt="image" src="https://github.com/a-lange/EurorackVCO/blob/main/panel.png" />
 
 <img width="1090" height="1656" alt="image" src="https://github.com/user-attachments/assets/9ed192cb-382a-45ee-8cc3-640e5f738440" />
 
