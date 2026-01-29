@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProPrj_evenVCO_2026-01-29-22-26-46")(type "KiCad")(uri "$(KIPRJMOD)/ProPrj_evenVCO_2026-01-29-22-26-46.pretty")(options "")(descr ""))
+)
