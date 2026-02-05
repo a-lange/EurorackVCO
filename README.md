@@ -1,3 +1,7 @@
+WIP!
+Not functional, might pick this up later or replace the core of the oscillator!
+As my first layout project, I bit over more than I could chew.
+
 # EurorackVCO
 Clone of Befaco 'even' VCO, original files (accessed 2025-12-12):
 https://befaco.org/docs/Even_VCO/
